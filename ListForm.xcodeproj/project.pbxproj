@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC3CC4BB23DF15E5005CBA90 /* AlbumDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC3CC4BA23DF15E5005CBA90 /* AlbumDetailView.swift */; };
 		CC4324F723DB46AC0053C4E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4324F623DB46AC0053C4E0 /* AppDelegate.swift */; };
 		CC4324F923DB46AC0053C4E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4324F823DB46AC0053C4E0 /* SceneDelegate.swift */; };
 		CC4324FB23DB46AC0053C4E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4324FA23DB46AC0053C4E0 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC3CC4BA23DF15E5005CBA90 /* AlbumDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailView.swift; sourceTree = "<group>"; };
 		CC4324F323DB46AC0053C4E0 /* ListForm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ListForm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC4324F623DB46AC0053C4E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CC4324F823DB46AC0053C4E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CC4324F623DB46AC0053C4E0 /* AppDelegate.swift */,
 				CC4324F823DB46AC0053C4E0 /* SceneDelegate.swift */,
 				CC4324FA23DB46AC0053C4E0 /* ContentView.swift */,
+				CC3CC4BA23DF15E5005CBA90 /* AlbumDetailView.swift */,
 				CC4324FC23DB46AF0053C4E0 /* Assets.xcassets */,
 				CC43250123DB46AF0053C4E0 /* LaunchScreen.storyboard */,
 				CC43250423DB46AF0053C4E0 /* Info.plist */,
@@ -149,6 +152,7 @@
 				CC4324F723DB46AC0053C4E0 /* AppDelegate.swift in Sources */,
 				CC4324F923DB46AC0053C4E0 /* SceneDelegate.swift in Sources */,
 				CC4324FB23DB46AC0053C4E0 /* ContentView.swift in Sources */,
+				CC3CC4BB23DF15E5005CBA90 /* AlbumDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
